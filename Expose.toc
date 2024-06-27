@@ -1,0 +1,29 @@
+\contentsline {chapter}{Declaration of honour}{iii}{section*.2}%
+\contentsline {chapter}{Abstract}{iv}{section*.3}%
+\contentsline {chapter}{Table of Contents}{vi}{section*.5}%
+\contentsline {chapter}{List of Figures}{viii}{section*.6}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduction and Motivation }{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Research Problem }{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Research Question }{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Research Method }{4}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Research Approach }{4}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Structure}{4}{section.1.6}%
+\contentsline {chapter}{\numberline {2}Background}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Education }{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Artificial intelligence and big data }{7}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Technology }{7}{section.2.3}%
+\contentsline {chapter}{\numberline {3}Related Works}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Academic Research }{9}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Commercial Products }{11}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Approach}{13}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Theoretical Background }{13}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Method 1: Descriptive Analysis}{13}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Method 2: Cluster Analysis}{13}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Method 3: Regression Analysis}{14}{subsection.4.1.3}%
+\contentsline {section}{\numberline {4.2}Data}{14}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Pre-processing}{15}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Experiment setup}{16}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Evaluation}{16}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Summary}{19}{chapter.5}%
+\contentsline {chapter}{Bibliography}{20}{section*.8}%

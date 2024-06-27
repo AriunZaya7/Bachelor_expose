@@ -28,6 +28,12 @@ N.~Ahmad, I.~Feroz, and A.~Anjum, ``Usability analysis of educational
   \url{https://doi.org/10.1145/3437075.3437104}
 \BIBentrySTDinterwordspacing
 
+\bibitem{4}
+\BIBentryALTinterwordspacing
+J.~Beck, M.~Stern, and E.~Haugsjaa, ``Applications of ai in education,'' 1996.
+  [Online]. Available: \url{https://doi.org/10.1145/332148.332153}
+\BIBentrySTDinterwordspacing
+
 \bibitem{3}
 \BIBentryALTinterwordspacing
 B.~Freeman and K.~Aoki, ``Chatgpt in education: A comparative study of media
@@ -35,6 +41,13 @@ B.~Freeman and K.~Aoki, ``Chatgpt in education: A comparative study of media
   International Conference on Education and E-Learning}.\hskip 1em plus 0.5em
   minus 0.4em\relax New York, NY, USA: Association for Computing Machinery,
   2024. [Online]. Available: \url{https://doi.org/10.1145/3637989.3638020}
+\BIBentrySTDinterwordspacing
+
+\bibitem{5}
+\BIBentryALTinterwordspacing
+G.-M. Petrașcu, ``Students' perceptions of ai in education,'' 2024, accessed:
+  2024-06-22. [Online]. Available:
+  \url{https://www.kaggle.com/datasets/gianinamariapetrascu/survey-on-students-perceptions-of-ai-in-education/data}
 \BIBentrySTDinterwordspacing
 
 \bibitem{1}

@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.31)  26 JUN 2024 22:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.10.31)  27 JUN 2024 21:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./template.tex
-(template.tex
+**./Expose.tex
+(Expose.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-23>
 (imc-inf.cls
@@ -450,8 +450,8 @@ ftex.def
 File: l3backend-pdftex.def 2023-10-23 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count293
 \l__pdf_internal_box=\box54
-) (template.aux)
-\openout1 = `template.aux'.
+) (Expose.aux)
+\openout1 = `Expose.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
@@ -532,16 +532,16 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring ON on input line 20.
-(template.out) (template.out)
+(Expose.out) (Expose.out)
 \@outlinefile=\write3
-\openout3 = `template.out'.
+\openout3 = `Expose.out'.
 
 \c@lstlisting=\count300
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <12> not available
 (Font)              Font shape `T1/phv/b/sl' tried instead on input line 21.
-<imc.png, id=115, 948.54375pt x 223.26268pt>
+<imc.png, id=119, 948.54375pt x 223.26268pt>
 File: imc.png Graphic file (type png)
 <use imc.png>
 Package pdftex.def Info: imc.png  used on input line 21.
@@ -588,101 +588,101 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 [3] [4
 
-]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 31.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 31.
-
-
-LaTeX Warning: Citation `988366' on page v undefined on input line 31.
-
-[5] (template.toc [6])
+] [5] (Expose.toc [6])
 \tf@toc=\write4
-\openout4 = `template.toc'.
+\openout4 = `Expose.toc'.
 
- [7] (template.lot)
-\tf@lot=\write5
-\openout5 = `template.lot'.
+ [7] (Expose.lof)
+\tf@lof=\write5
+\openout5 = `Expose.lof'.
 
  [8
-
-] (template.lof)
-\tf@lof=\write6
-\openout6 = `template.lof'.
-
- [9
-
-] [10
-
 
 ]
 Chapter 1.
 [1
 
-] [2] [3] [4]
-Chapter 2.
-[5
 
-] [6
+
+] [2] [3]
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 1
+09.
+
+(C:\Users\Tugsuu\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
+[4] [5] [6
 
 ]
+Chapter 2.
+[7] [8]
 Chapter 3.
 
 Underfull \vbox (badness 1325) has occurred while \output is active []
 
- [7]
-Underfull \vbox (badness 3872) has occurred while \output is active []
-
- [8]
-[9] [10
+ [9
 
 ]
+Underfull \vbox (badness 3872) has occurred while \output is active []
+
+ [10]
+[11] [12]
 Chapter 4.
-[11] [12
+
+Overfull \hbox (6.11592pt too wide) in paragraph at lines 196--197
+\T1/phv/m/n/10.95 stake-hold-ers. Some meth-ods of clus-ter-ing are K-means, hi
+-er-ar-chi-cal clus-ter-ing, and density-
+ []
+
+[13
+
+] [14]
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
+
+ []
+
+[15]
+<Data-collection.png, id=268, 1445.4pt x 813.0375pt>
+File: Data-collection.png Graphic file (type png)
+<use Data-collection.png>
+Package pdftex.def Info: Data-collection.png  used on input line 238.
+(pdftex.def)             Requested size: 433.62001pt x 243.91313pt.
+ [16 <./Data-collection.png (PNG copy)>] [17] [18
 
 ]
 Chapter 5.
-[13]
+[19]
 
-(template.bbl [14
+(Expose.bbl [20
 
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 35.
-) [15] [16
-
-]
-Appendix A.
-[17] (template.aux)
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 41.
+) [21] (Expose.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-10-23>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
-Package rerunfilecheck Info: File `template.out' has not changed.
-(rerunfilecheck)             Checksum: 20691AD5489A60FC7CED66A8CD094682;3512.
+Package rerunfilecheck Info: File `Expose.out' has not changed.
+(rerunfilecheck)             Checksum: 1D8BBE55AAE2C0B5036B0D7576BD8DFA;4010.
  ) 
 Here is how much of TeX's memory you used:
- 13553 strings out of 474718
- 215521 string characters out of 5747984
+ 13595 strings out of 474718
+ 216245 string characters out of 5747984
  1934036 words of memory out of 5000000
- 35345 multiletter control sequences out of 15000+600000
- 629243 words of font info for 85 fonts, out of 8000000 for 9000
+ 35386 multiletter control sequences out of 15000+600000
+ 616589 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,8n,81p,1798b,517s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 78i,8n,81p,1796b,510s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Tugsuu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8
 a.pfb><C:/Users/Tugsuu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/u
 hvbo8a.pfb><C:/Users/Tugsuu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helve
 tic/uhvr8a.pfb><C:/Users/Tugsuu/AppData/Local/Programs/MiKTeX/fonts/type1/urw/h
 elvetic/uhvro8a.pfb>
-Output written on template.pdf (27 pages, 123872 bytes).
+Output written on Expose.pdf (29 pages, 214588 bytes).
 PDF statistics:
- 314 PDF objects out of 1000 (max. 8388607)
- 63 named destinations out of 1000 (max. 500000)
- 230 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 339 PDF objects out of 1000 (max. 8388607)
+ 71 named destinations out of 1000 (max. 500000)
+ 243 words of extra memory for PDF output out of 10000 (max. 10000000)
 
